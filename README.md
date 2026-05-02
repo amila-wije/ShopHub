@@ -43,12 +43,7 @@ The chatbot understands the request, queries the database, and returns results w
 
 ## 📸 Screenshots
 
-_Add screenshots here_
-
-- Chat UI  
-- Product cards  
-- AI responses  
-
+_
 
 How It Works
  - User enters a natural language query
